@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'order-frist'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41532FDC24A84A848756B62B8793239F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F196AEC754864F19A26FE637DE4E24DE }}
           package: '*.war'
