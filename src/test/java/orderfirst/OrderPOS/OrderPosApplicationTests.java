@@ -1,10 +1,10 @@
-package mis.product_crud;
+package orderfirst.OrderPOS;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootLab25DrinkProductCrudApplicationTests {
+class OrderPosApplicationTests {
 
 	@Test
 	void contextLoads() {

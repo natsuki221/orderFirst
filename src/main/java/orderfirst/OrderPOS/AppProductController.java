@@ -1,4 +1,4 @@
-package mis.product_crud;
+package orderfirst.OrderPOS;
 
 import java.util.ArrayList;
 import java.util.Enumeration;
@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import mis.product_crud.OrderDAO;
 
 @Controller
 public class AppProductController {

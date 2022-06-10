@@ -1,4 +1,4 @@
-package mis.product_crud;
+package orderfirst.OrderPOS;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
